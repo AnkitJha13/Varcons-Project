@@ -6,6 +6,10 @@
   float: left;
 }
 
+.navbar-nav .nav-link {
+  font-weight: bold !important;
+}
+
 .content {
   flex: 1;
 }
@@ -18,7 +22,7 @@
 }
 
 .bg-light {
-  border-bottom: 1px solid #eaeaea;
+  border-bottom: 1px solid #d3eb9c;
   padding: 10px 35px;
   background-color: rgb(155, 237, 144) !important;
 }
